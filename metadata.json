@@ -1,0 +1,8 @@
+{
+  "name": "Al-Salam Travel & Tours",
+  "description": "A premium React application for Hajj and Umrah pilgrimage services featuring elegant Islamic design patterns and integrated Gemini AI support for travel guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
